@@ -785,6 +785,10 @@ main {
   color: white;
 }
 
+#file {
+  text-align: center;
+}
+
 .article-title { margin-bottom: 30px; }
 
 
