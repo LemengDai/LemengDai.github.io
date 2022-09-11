@@ -1887,5 +1887,22 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
+}
 
+.pdf {
+  display: inline-block;
+  min-width: 90%;
+  min-height: 800px;
+  margin: 5%;
+}
+
+.res-segment {
+	padding: 0 10% 0 10%;
+}
+
+.download-descrip {
+	font-size: 1.2rem;
+	padding: 0% 15% 2% 15%;
+	margin-top: 0%;
+	margin-bottom: 0%;
 }
