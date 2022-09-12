@@ -522,7 +522,7 @@ main {
 
 .res-segment {
 	padding: 0 10% 0 10%;
-  margin: auto;
+  display: inline-block;
 }
 
 .download-descrip {
