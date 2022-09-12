@@ -1199,3 +1199,11 @@ ion-icon {
 	 */
 
 }
+
+.footer {
+	background-color: #202020;
+	color: #FAFDF6;
+	text-align: center;
+	margin-top: 5%;
+	padding-top: 2%;
+}
