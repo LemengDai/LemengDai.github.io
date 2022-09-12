@@ -536,6 +536,7 @@ main {
 
 #file {
   color: rgb(0, 128, 255);
+  width: 100%;
   display: flex;
   justify-content: center;
   text-decoration-line: underline;
