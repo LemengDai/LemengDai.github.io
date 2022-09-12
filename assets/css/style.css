@@ -292,6 +292,25 @@ article.active {
   z-index: -1;
 }
 
+#cursor {
+  color: rgb(0, 255, 0);
+}
+
+.title1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  font-family: Consolas;
+  color: white;
+}
+
+#page1 {
+  position: relative;
+  height: 100%;
+  background-color: black;
+}
 
 
 
@@ -502,6 +521,7 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
+  width: 90%;
 }
 
 .about-text p { margin-bottom: 15px; }
@@ -698,7 +718,6 @@ ion-icon {
    * #PORTFOLIO, BLOG 
    */
 
-  .project-img,
   .blog-banner-box { height: auto; }
 
 }
