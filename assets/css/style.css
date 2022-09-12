@@ -535,12 +535,9 @@ main {
 }
 
 #file {
-  margin: auto;
   color: rgb(0, 128, 255);
-  display: inline-flex;
-  text-align: center;
+  display: flex;
   justify-content: center;
-  align-items: center;
   text-decoration-line: underline;
 }
 
