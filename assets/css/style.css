@@ -516,7 +516,7 @@ main {
 .pdf {
   display: inline-block;
   min-width: 90%;
-  height: auto;
+  min-height: 800px;
   margin: 5%;
 }
 
@@ -537,8 +537,10 @@ main {
 #file {
   margin: auto;
   color: rgb(0, 128, 255);
-  display: inline;
+  display: inline-flex;
   text-align: center;
+  justify-content: center;
+  text-decoration-line: underline;
 }
 
 .article-title { margin-bottom: 30px; }
